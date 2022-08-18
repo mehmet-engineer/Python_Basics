@@ -1,2 +1,2 @@
-# Python_Temelleri
-Python dili syntax bilgisi ve genel kullanımları içeren py dosyalarını derledim.
+# Python Basics
+I have gathered py files containing Python language syntax information and general usages.
